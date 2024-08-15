@@ -2,15 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.mavenproject1;
-import java.util.Scanner;
+package com.mycompany.exc_01_daniel;
 
+import java.util.Scanner;
 
 /**
  *
  * @author d.rodrigues
  */
-public class Mavenproject1 {
+public class Exc_01_DANIEL {
 
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
