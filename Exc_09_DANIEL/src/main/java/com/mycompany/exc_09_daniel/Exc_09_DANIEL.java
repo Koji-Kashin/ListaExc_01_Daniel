@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author The Great Garibaldo
+ * @author d.rodrigues
  */
 public class Exc_09_DANIEL {
 
